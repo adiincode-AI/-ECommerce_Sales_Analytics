@@ -47,8 +47,8 @@ Sample E-Commerce Sales Dataset
 ## Tools Used
 
 * Tableau
-* [Microsoft Excel](https://www.microsoft.com/microsoft-365/excel?utm_source=chatgpt.com)
-* [GitHub](https://github.com?utm_source=chatgpt.com)
+* Microsoft Excel
+* GitHub
 
 ---
 
@@ -353,24 +353,24 @@ This project demonstrates the end-to-end process of transforming raw sales data 
 
 ### Executive Summary
 
-![Executive Summary](screenshots/executive-summary.png)
+![Executive Summary](screenshot/overview.png)
 
 ### Product Performance
 
-![Product Performance](screenshots/product-performance.png)
+![Product Performance](screenshot/product_performance.png)
 
 ### Geographic Analysis
 
-![Geographic Analysis](screenshots/geographic-analysis.png)
+![Geographic Analysis](screenshot/geographic_analysis.png)
 
 ### Customer Insights
 
-![Customer Insights](screenshots/customer-insights.png)
+![Customer Insights](screenshot/customer_insights.png)
 
 ### Time Trends & Seasonality
 
-![Time Trends](screenshots/time-trends.png)
+![Time Trends](screenshot/time_trends.png)
 
 ### Operations & Shipping
 
-![Operations](screenshots/operations-shipping.png)
+![Operations](screenshot/operations.png)
