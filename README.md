@@ -349,8 +349,6 @@ This project demonstrates the end-to-end process of transforming raw sales data 
 
 ## Dashboard Preview
 
-*Add dashboard screenshots here.*
-
 ### Executive Summary
 
 ![Executive Summary](screenshot/overview.png)
